@@ -1,0 +1,9 @@
+{
+  "name": "com.unity.interactionsystem",
+  "displayName": "Interaction System",
+  "description": "Interaction system for mobile game", 
+  "version": "1.0.0",
+  "dependencies": {
+    "com.unity.modules.inputsystem": "1.2.0"
+  }
+}
